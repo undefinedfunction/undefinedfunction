@@ -6,4 +6,4 @@ I recently built a WHS implementation and some web crawlers (one of them does 15
 
 I write some stuff on LinkedIn [here](https://www.linkedin.com/in/undefinedfunction/).
 
-I have 2 cocker spaniels. They can be d1kcheads.
+I have 2 cocker spaniels.
